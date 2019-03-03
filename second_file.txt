@@ -1,2 +1,6 @@
 public static void main(Sring[] args){}
+<<<<<<< HEAD
 heeelp
+=======
+finally!
+>>>>>>> master
